@@ -1,4 +1,4 @@
-###[(EST. ING-SIS. Junior Daza)]
+##[(EST. ING-SIS. Junior Daza)]
 
 ### ¿Quién soy? 📁
 Estudiante de Ingeniería de Sistemas, programador principiante y futuro creador multidisciplinario.
